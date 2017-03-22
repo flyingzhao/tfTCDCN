@@ -6,12 +6,12 @@ It is a TensorFlow implementation of《[Facial Landmark Detection by Deep Multi-
 
 >Instead of treating the detection task as a single and independent problem, we investigate the possibility of improving detection robustness through multi-task learning.
 
-##Network structure
+## Network structure
 ![structure](http://img.blog.csdn.net/20161003235731201)
 
-##Libraries
+## Libraries
 You need to install OpenCV3 for image processing.
 
-##Chinese version
+## Chinese version
 You can read my blog for more information:
 >http://blog.csdn.net/tinyzhao/article/details/52730553
